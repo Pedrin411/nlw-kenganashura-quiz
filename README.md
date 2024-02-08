@@ -1,5 +1,5 @@
 # nlw-expert
-Projeto criado para NLW Expert da Rocketseat
+Projeto criado durante a NLW Expert da Rocketseat
 
 # Tecnologias Utilizadas
 - HTML
